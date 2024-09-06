@@ -3,7 +3,7 @@ $GLOBALS['HASHTYPE'] = 'sha512';
 $GLOBALS['PASSHASH'] = 'e66c5ee38c4771dd5e0bf93a4671f0fbcbe5fcb52101e61b03a5379bace001d1ccbc73e03745f0349e2e6440a7dd601e1d31ffbdebde30cb64bd7263365551bc';
 $GLOBALS['SECHEAD'] = 'USER_AGENT';
 $GLOBALS['DEFAULT_TAB'] = 'tabFM';
-$GLOBALS['COOKIE'] = true;
+$GLOBALS['COOKIE'] = false;
 $GLOBALS['DARK'] = false;
 $GLOBALS['REMOTE_ADDR'] = true;
 $GLOBALS['ACECONF'] = array('DEFAULT' => true, 'THEME' => 'crimson_editor', 'MODE' => 'php', 'URL' => 'https://cdnjs.cloudflare.com/ajax/libs/ace/1.14.0/ace.js');
